@@ -1,5 +1,5 @@
 # TSC_ESOINN
-A time series classification method based Shapelet learning by ESIONN, aims at small-scale time series datasets.  
+A time series classification method based on Shapelet learning by ESIONN, aims at small-scale time series datasets.  
 At alpha state now, pursuing more improvements!
 
 # PAPER TO CITE:
