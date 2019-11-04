@@ -4,4 +4,6 @@ Alpha state now, pursuing more improvements!
 
 ## environment requirments:
 * python3.6
+* pandas
+* scikit-learn
 * keras1.2
