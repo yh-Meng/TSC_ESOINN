@@ -2,6 +2,11 @@
 A time series classification method based Shapelet learning by ESIONN, aims at small-scale time-series datasets.
 Alpha state now, pursuing more improvements!
 
+# PAPER TO CITE:
+Yumeng Wang
+Shapelet Feature Learning Method of BCG Signal Based on ESOINN
+2019
+
 ## environment requirments:
 * python3.6
 * pandas
