@@ -3,5 +3,5 @@ A time series classification method based Shapelet learning by ESIONN, aims at s
 Alpha state now, pursuing more improvements!
 
 ## environment requirments:
-    ### python3.6
-    ### keras1.2
+* python3.6
+* keras1.2
