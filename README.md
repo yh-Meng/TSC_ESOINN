@@ -11,4 +11,4 @@ Shapelet Feature Learning Method of BCG Signal Based on ESOINN
 * python3.6
 * pandas
 * scikit-learn
-* keras1.2
+* keras1.2 (for cnn)
